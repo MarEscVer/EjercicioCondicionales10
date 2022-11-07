@@ -6,8 +6,11 @@ public class Ejercicio10 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-
-final int TOTAL_MIN = 1440;
+		
+/*Escribe un programa que dada una hora determinada (horas y minutos),
+ * calcule los minutos que faltan para llegar a la medianoche.
+*/		
+		final int TOTAL_MIN = 1440;
 		
 		int hora;
 		int minuto;
